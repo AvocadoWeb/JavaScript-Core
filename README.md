@@ -1,5 +1,5 @@
 # JavaScript-Core
-+ GitPage: https://avocadoweb.github.io/JavaScript-Core/index.html
++ GitPage: https://avocadoweb.github.io/JavaScript-Core-4.3.7/index.html
 
 Описание функционала
 [Ссылка на эскизный макет приложения](https://www.figma.com/file/kmqrvsBfrpWa1Pu3v3rgMz/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-4.3.7?node-id=0%3A1&t=neyMzgc9olhZAiXr-1)
